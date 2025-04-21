@@ -31,16 +31,22 @@ To write a program to find the 1-norm, 2-norm and infinity norm of the matrix an
 ```
 ## Output:
 ### 1-Norm of a Matrix
+![Screenshot 2025-04-21 225633](https://github.com/user-attachments/assets/12730125-40ae-4e8c-b122-9260712c86f8)
+
 <br>
 <br>
 <br>
 
 ### 2-Norm of a Matrix
+![Screenshot 2025-04-21 225645](https://github.com/user-attachments/assets/fa5b4c1a-f95f-46d2-90af-ffb1feff8230)
+
 <br>
 <br>
 <br>
 
 ### Infinity Norm of a Matrix
+![Screenshot 2025-04-21 225645](https://github.com/user-attachments/assets/cb4dfe54-6dc1-4067-a293-c4ce67bd1bb4)
+
 <br>
 <br>
 <br>
